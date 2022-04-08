@@ -11,5 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ I love programming, data analysis and beautiful visualizations
 - 🌱 I’m currently learning Python
+- ✈️ I love travelling (hopefully international when restrictions are lifted)
+- 🏃 I am a life-long runner and have run over 20 marathons (PR 3:09)
 
 
